@@ -10,4 +10,4 @@ function checkFive(num){
   return result;
 }
 
-module.export = checkFive;
+module.exports = checkFive;
